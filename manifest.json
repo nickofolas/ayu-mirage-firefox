@@ -3,6 +3,12 @@
     "name": "Ayu Mirage",
     "version": "1.1",
     "description": "The beautiful Ayu Mirage theme for Firefox.",
+    "icons": {
+        "16": "images/icon.svg",
+        "32": "images/icon.svg",
+        "48": "images/icon.svg",
+        "96": "images/icon.svg"
+    },
     "theme": {
         "colors": {
             "bookmark_text": "#CBCCC6",
