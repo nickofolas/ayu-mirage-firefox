@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Ayu Mirage",
-    "version": "1.0",
+    "version": "1.1",
     "description": "The beautiful Ayu Mirage theme for Firefox.",
     "theme": {
         "colors": {
@@ -27,7 +27,7 @@
             "tab_background_text": "#CBCCC6",
             "tab_line": "#101521",
             "tab_loading": "#A29BFE",
-            "tab_selected": "#141925",
+            "tab_selected": "#232834",
             "tab_text": "#CBCCC6",
             "toolbar": "#1F2430",
             "toolbar_bottom_separator": "#101521",
